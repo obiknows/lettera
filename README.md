@@ -10,3 +10,8 @@ based off the legendary [Lettera 10](https://it.wikipedia.org/wiki/Olivetti_Lett
 2. run `npm start`
 
 *you really could have googled this*
+
+
+### License
+
+MIT
