@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/samnnodim/lettera/issues"
   },
-  "homepage": "https://github.com/samnnodim/lettera#readme"
+  "homepage": "https://github.com/samnnodim/lettera#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^1.0.1"
+  }
 }
