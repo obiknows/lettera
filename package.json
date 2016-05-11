@@ -1,0 +1,27 @@
+{
+  "name": "lettera",
+  "version": "0.0.1",
+  "description": "all purpose typing creation",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samnnodim/lettera.git"
+  },
+  "keywords": [
+    "type",
+    "typewriter",
+    "editor",
+    "wysiwg",
+    "pimp-shit",
+    "omg-based-god"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samnnodim/lettera/issues"
+  },
+  "homepage": "https://github.com/samnnodim/lettera#readme"
+}
