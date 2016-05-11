@@ -8,7 +8,7 @@ let mainWindow
 
 function createWindow () {
   mainWindow = new BrowserWindow({width: 400, height: 400})  // 500x500 window
-  mainWindow.loadURL('file://' + __dirname + 'index.html')  // load index.html
+  mainWindow.loadURL('file://' + __dirname + '/index.html')  // load index.html
 
   // check when window closes and dereference
   mainWindow.on('closed', function () {
