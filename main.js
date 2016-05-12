@@ -7,7 +7,14 @@ const BrowserWindow = electron.BrowserWindow
 let mainWindow
 
 function createWindow () {
-  mainWindow = new BrowserWindow({width: 400, height: 400})  // 500x500 window
+  mainWindow = new BrowserWindow({ // window settings
+    title: 'lettera',
+    width: 500,
+    height: 500,
+    titleBarStyle: 'hidden',
+    darkTheme: true,
+    backgroundColor: '#111111'
+  })
   mainWindow.loadURL('file://' + __dirname + '/index.html')  // load index.html
 
   // check when window closes and dereference
