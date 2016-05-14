@@ -11,7 +11,7 @@ function createWindow () {
     title: 'lettera',
     width: 500,
     height: 500,
-    titleBarStyle: 'hidden',
+    titleBarStyle: 'hidden-inset',
     darkTheme: true,
     backgroundColor: '#111111'
   })
